@@ -1,0 +1,17 @@
+.button-nav-add {
+	margin-right: 10px;
+}
+
+.card-target {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	& > div {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		& > ion-icon:first-child {
+			margin-right: 15px;
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bobContest",
+  "app_id": "bc12b958",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
